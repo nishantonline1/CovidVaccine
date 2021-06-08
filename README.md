@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Small project with minimal code for instant vaccine availability notification.
+
+For your nearby locations, just change few lines:
+
+1. line no 154 in APP.js, change dist Id
+2. line no 39 in APP.js, set age 18/45 (default 18)
+3. line no 39 in APP.js, set pin codes for beep notification.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
